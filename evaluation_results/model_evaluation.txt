@@ -1,0 +1,26 @@
+Model Evaluation Results
+==================================================
+
+Cross-validation scores: [1. 1. 1. 1. 1.]
+Mean CV accuracy: 1.000 (+/- 0.000)
+
+Detailed Classification Report:
+--------------------------------------------------
+
+Class 1:
+precision: 1.000
+recall: 1.000
+f1-score: 1.000
+support: 18.000
+
+Class macro avg:
+precision: 1.000
+recall: 1.000
+f1-score: 1.000
+support: 18.000
+
+Class weighted avg:
+precision: 1.000
+recall: 1.000
+f1-score: 1.000
+support: 18.000

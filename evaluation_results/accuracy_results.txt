@@ -1,0 +1,12 @@
+Model Accuracy Results
+==================================================
+
+Cross-validation accuracy scores (5-fold):
+Fold 1: 100.00%
+Fold 2: 100.00%
+Fold 3: 100.00%
+Fold 4: 100.00%
+Fold 5: 100.00%
+
+Mean cross-validation accuracy: 100.00%
+Test set accuracy: 100.00%

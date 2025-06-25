@@ -1,0 +1,9 @@
+2025-06-15 08:13:47 | INFO | ml_model | Loaded ML model, scaler, and encoders.
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing files in: C:/Users/deven/OneDrive/Attachments/Desktop/ML
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing file: C:/Users/deven/OneDrive/Attachments/Desktop/ML\A363(Devendra Arunrao Ambalkar).pptx
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing file: C:/Users/deven/OneDrive/Attachments/Desktop/ML\CodeCraft ML Project Shortlisted Teams and Instructions.pdf
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing file: C:/Users/deven/OneDrive/Attachments/Desktop/ML\requirements.txt
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing file: C:/Users/deven/OneDrive/Attachments/Desktop/ML\Screenshot_2025-06-14_081252-removebg-preview.png
+2025-06-15 08:14:08 | INFO | file_monitor | Scanning existing file: C:/Users/deven/OneDrive/Attachments/Desktop/ML\test.bat
+2025-06-15 08:14:08 | INFO | file_monitor | Started monitoring: C:/Users/deven/OneDrive/Attachments/Desktop/ML
+2025-06-15 08:14:31 | INFO | file_monitor | Stopped monitoring: C:/Users/deven/OneDrive/Attachments/Desktop/ML
