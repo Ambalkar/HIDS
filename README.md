@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🛡️ Windows Intrusion Detection System (IDS)
 
@@ -164,4 +164,4 @@ Feel free to use and modify it for personal or commercial use.
 =======
 # HIDS
 Host based Intrusion Detection System using Machine Learning
->>>>>>> 2fe05b50bc6a38e94894e86a2b9e50a9cd8fd103
+
