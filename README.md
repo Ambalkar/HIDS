@@ -159,6 +159,4 @@ Please feel free to fork the repo, submit pull requests, or open issues for bug 
 This project is licensed under the **MIT License**.
 Feel free to use and modify it for personal or commercial use.
 
----
 
-Let me know if you'd like a custom banner/logo or a ready-to-use `README.md` file download.
